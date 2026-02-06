@@ -7,8 +7,7 @@ Extraia o arquivo .zip dentro do diretório htdocs do XAMPP
 (ou dentro da pasta equivalente de outro servidor local, como o Wamp).
 
 Abra o XAMPP Control Panel e inicie os seguintes serviços:
-Apache
-MySQL
+Apache e MySQL
 
 Após iniciar os serviços, abra o navegador e digite:
 
