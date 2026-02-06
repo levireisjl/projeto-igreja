@@ -12,8 +12,6 @@ MySQL
 
 Após iniciar os serviços, abra o navegador e digite:
 
-Copy code
-
 http://localhost/nome-da-pasta/index.php
 
 Substitua nome-da-pasta pelo nome da pasta do projeto que você colocou dentro do htdocs.
